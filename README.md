@@ -6,4 +6,4 @@
 https://public.tableau.com/app/profile/michael.rodriguez8025/viz/Module14HW/Module14HW?publish=yes
 
 # Summary
-### I know how to use Tableau. 
+### I now know how to use Tableau.
